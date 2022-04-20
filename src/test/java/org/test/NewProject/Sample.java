@@ -5,8 +5,8 @@ public class Sample {
 	public static void main(String[] args) {
 		System.out.println("this is test");
 		System.out.println("this is test11");
-		System.out.println("this is test 3");
-		System.out.println("this is test 4");
+		System.out.println("this is test 113");
+		System.out.println("this is test 224");
 		
 	}
 }
